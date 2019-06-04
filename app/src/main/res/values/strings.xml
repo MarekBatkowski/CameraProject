@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CameraProject</string>
+    <string name="take_picture">Take picture</string>
+    <string name="toggle_camera">Toggle camera</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="no_permissions">To use this app please grant permissions</string>
+    <string name="menu_useIntent">Use external camera app</string>
+    <string name="toast_savedas">"Saved as: "</string>
+    <string name="toast_emptyfolder">Folder is empty!</string>
+</resources>

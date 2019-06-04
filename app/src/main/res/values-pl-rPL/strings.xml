@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CameraProject</string>
+    <string name="take_picture">Zrób zdjęcie</string>
+    <string name="toggle_camera">Przełącz kamerę</string>
+    <string name="open_gallery">Otwórz galerię</string>
+    <string name="no_permissions">By użyć tej aplikacji przyznaj iuprawnienia</string>
+    <string name="menu_useIntent">Użyj zewnętrznej aplikacji kamery</string>
+    <string name="toast_savedas">"Zapisano jako: "</string>
+    <string name="toast_emptyfolder">Folder jest pusty!</string>
+</resources>
